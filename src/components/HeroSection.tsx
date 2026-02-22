@@ -2,7 +2,7 @@ import { MessageCircle, CheckCircle } from "lucide-react";
 import heroSetup from "@/assets/hero-setup.jpg";
 import FadeIn from "./FadeIn";
 
-const WHATSAPP_LINK = "https://wa.me/5500000000000?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
+const WHATSAPP_LINK = "https://wa.me/5511917956316?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
 
 const HeroSection = () => {
   return (
