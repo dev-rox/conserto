@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Menu, X, MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5500000000000?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
+const WHATSAPP_LINK = "https://wa.me/5511917956316?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
 
 const navItems = [
   { label: "Início", href: "#inicio" },
