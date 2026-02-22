@@ -1,7 +1,7 @@
 import { MessageCircle, Zap, Building2 } from "lucide-react";
 import FadeIn from "./FadeIn";
 
-const WHATSAPP_LINK = "https://wa.me/5500000000000?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
+const WHATSAPP_LINK = "https://wa.me/5511917956316?text=Olá%20Raul!%20Preciso%20de%20suporte%20técnico.";
 
 const plans = [
   {
