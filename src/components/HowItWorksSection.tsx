@@ -4,25 +4,25 @@ import FadeIn from "./FadeIn";
 const steps = [
   {
     icon: MessageCircle,
-    number: "01",
+    number: "1",
     title: "Contato",
     description: "Você me chama no WhatsApp e explica o problema.",
   },
   {
     icon: Search,
-    number: "02",
+    number: "2",
     title: "Diagnóstico",
     description: "Faço um diagnóstico gratuito e passo o orçamento.",
   },
   {
     icon: Monitor,
-    number: "03",
+    number: "3",
     title: "Acesso Remoto",
     description: "Conectamos via AnyDesk/TeamViewer de forma segura.",
   },
   {
     icon: Rocket,
-    number: "04",
+    number: "4",
     title: "Pronto!",
     description: "Seu computador fica otimizado e seguro.",
   },
