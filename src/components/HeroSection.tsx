@@ -9,7 +9,7 @@ const HeroSection = () => {
     <section id="inicio" className="relative overflow-hidden pt-20 md:pt-24">
       {/* Background image with overlay */}
       <div className="absolute inset-0">
-        <img src={heroSetup} alt="Setup de tecnologia" className="h-full w-full object-cover opacity-20" />
+        <img src={heroSetup} alt="Setup de tecnologia" className="h-full w-full object-cover opacity-50" />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/90 to-background" />
       </div>
 
@@ -50,7 +50,7 @@ const HeroSection = () => {
 
         <FadeIn delay={400}>
           <p className="mt-10 text-sm text-muted-foreground">
-            ✅ Mais de <span className="font-bold text-foreground">500+</span> atendimentos realizados com sucesso
+            ✅ Mais de <span className="font-bold text-foreground">3500+</span> atendimentos realizados com sucesso
           </p>
         </FadeIn>
       </div>
