@@ -5,7 +5,7 @@ const audiences = [
   {
     icon: User,
     title: "Pessoas Físicas",
-    items: ["Remoção de vírus", "PC lento", "Formatação", "Instalação de impressoras e drivers"],
+    items: ["Remoção de vírus", "PC lento", "Formatação", "Instalação de programas, impressoras e drivers"],
   },
   {
     icon: Gamepad2,
@@ -25,7 +25,7 @@ const audiences = [
   {
     icon: GraduationCap,
     title: "Estudantes",
-    items: ["Pacote Office", "Formatação ABNT no Word", "Recuperação de arquivos", "Otimização Zoom/Teams"],
+    items: ["Pacote Office", "consultoria para montar seu PC", "Recuperação de arquivos", "Otimização"],
   },
   {
     icon: Building2,
